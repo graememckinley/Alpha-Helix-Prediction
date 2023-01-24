@@ -36,4 +36,4 @@ Since testing.py compares outfile.txt to labels.txt and outfile.txt is based on 
 
 Below is a write up done for the assignment explaining the approach, discussing advantages/disadvantages, and briefly exploring future improvements.
 
-[Git Writeup.pdf](https://github.com/graememckinley/Alpha-Helix-Prediction/files/10485964/Git.Writeup.pdf)
+[Git Writeup.pdf](https://github.com/graememckinley/Alpha-Helix-Prediction/files/10491780/Git.Writeup.pdf)
